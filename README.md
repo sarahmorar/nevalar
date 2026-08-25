@@ -7,6 +7,7 @@ Players create an adventurer, choose a class, manage their gold and inventory, a
 ## Current Version
 
 Current Version: v0.1.0-alpha
+
 Nevalar is currently in early development and is not yet a complete playable game. Core gameplay systems and story content are actively being implemented.
 
 ## Features
