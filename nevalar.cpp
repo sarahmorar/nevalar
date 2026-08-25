@@ -14,11 +14,11 @@
 Nevalar v.0.1.0-alpha
 by Sarah Morar
 
-Last update: 25 Aug 2026, 1:31 AM EDT
+Last update: 25 Aug 2026, 1:32 AM EDT
 
 *************************************************
 Github: https://www.github.com/sarahmorar/nevalar
-my LinkedIn: https://www.linkedin.com/sarahmorar
+my LinkedIn: https://www.linkedin.com/in/sarahmorar
 *************************************************
 
 Welcome to the world of Nevalar, traveler.
